@@ -44,7 +44,7 @@ Comparison: Perform structured comparisons for specific queries.
 
 1. Clone the repository:
    
-   git clone https://github.com/Ragulakarthii/Task_1_Chat_With_PDF_Using_RAG_Pipeline.git
+   git clone https://github.com/Ragulakarthik/Task_1_Chat_With_PDF_Using_RAG_Pipeline.git
    
    cd Task_1_Chat_With_PDF_Using_RAG_Pipeline
 
