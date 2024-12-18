@@ -7,11 +7,11 @@ This project demonstrates how to build a chatbot that enables users to interact 
 ## 🎥 Video Demo
 Watch the full demonstration of the Task-1 on YouTube here:
 
-🔗 https://youtu.be/h0sRD6mywjs
+🔗 [https://youtu.be/h0sRD6mywjs](https://youtu.be/h0sRD6mywjs)
 
 Watch the full demonstration of the Task-2 on YouTube here:
 
-🔗 https://youtu.be/h0sRD6mywjs
+🔗 [https://youtu.be/h0sRD6mywjs](https://youtu.be/koIc1bx5cao)
 
 ## 🚀 Features
 📄 PDF Ingestion: Load and process semi-structured PDFs.
