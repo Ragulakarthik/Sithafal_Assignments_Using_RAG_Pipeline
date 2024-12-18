@@ -1,4 +1,4 @@
-# SIthafal Assignments Using RAG Pipeline
+# Sithafal Assignments Using RAG Pipeline
 ## 🧠 Task : 1 -> Interact with PDFs using AI and Retrieval-Augmented Generation (RAG)
 This project demonstrates how to build a PDF chatbot that enables users to ask natural language questions and retrieve precise answers using AI-powered tools like LangChain, ChromaDB, and Ollama.
 ## 🧠 Task : 2 -> Interact with Websites using AI and Retrieval-Augmented Generation (RAG)
