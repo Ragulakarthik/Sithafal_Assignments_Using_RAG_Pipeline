@@ -1,14 +1,22 @@
-# 📚 Chat with PDF using RAG Pipeline 🚀
-## 🧠 Interact with PDFs using AI and Retrieval-Augmented Generation (RAG)
+# SIthafal Assignments Using RAG Pipeline
+## 🧠 Task : 1 -> Interact with PDFs using AI and Retrieval-Augmented Generation (RAG)
 This project demonstrates how to build a PDF chatbot that enables users to ask natural language questions and retrieve precise answers using AI-powered tools like LangChain, ChromaDB, and Ollama.
+## 🧠 Task : 2 -> Interact with Websites using AI and Retrieval-Augmented Generation (RAG)
+This project demonstrates how to build a chatbot that enables users to interact with structured and unstructured data extracted from websites. By using AI-powered tools like LangChain, ChromaDB, and Ollama, the system allows users to ask natural language questions and retrieve accurate, context-rich answers from website content.
 
 ## 🎥 Video Demo
-Watch the full demonstration of the project on YouTube here:
+Watch the full demonstration of the Task-1 on YouTube here:
+
+🔗 https://youtu.be/h0sRD6mywjs
+
+Watch the full demonstration of the Task-2 on YouTube here:
 
 🔗 https://youtu.be/h0sRD6mywjs
 
 ## 🚀 Features
 📄 PDF Ingestion: Load and process semi-structured PDFs.
+
+🌐 Website Date Ingestion: Loads all types of data from websites.
 
 🧩 Text Chunking: Split text into manageable chunks for better retrieval.
 
@@ -30,6 +38,8 @@ Python: Core programming language.
 ## 🧩 How It Works
 Load PDF: Load and extract content using UnstructuredPDFLoader.
 
+Load Website Data: Load and extract content using UnstructuredPDFLoader.
+
 Split Text: Use RecursiveCharacterTextSplitter to chunk the text into logical pieces.
 
 Create Embeddings: Convert the chunks into vector embeddings using Ollama’s embedding model.
@@ -44,9 +54,9 @@ Comparison: Perform structured comparisons for specific queries.
 
 1. Clone the repository:
    
-   git clone https://github.com/Ragulakarthik/Task_1_Chat_With_PDF_Using_RAG_Pipeline.git
+   git clone https://github.com/Ragulakarthik/Sithafal_Assignments_Using_RAG_Pipeline.git
    
-   cd Task_1_Chat_With_PDF_Using_RAG_Pipeline
+   cd Sithafal_Assignments_Using_RAG_Pipeline
 
 2. Install all the required dependencies
 
